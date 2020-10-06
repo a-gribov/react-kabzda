@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Header />
         <p>
-          This is my first React.js project. Gribov Andrey
+          This is my first React.js project. .Gribov Andrey
         </p>
         <a
           className="App-link"
